@@ -1,0 +1,321 @@
+[2018-11-17 22:23:31.666] [sharedprocess] [info] main {"machineId":"a927263c76c9cfeb74432b6a5aaf9c2665181f054321c8ceea4447a38256ab9f"}
+[2018-11-17 22:23:31.686] [sharedprocess] [info] Scanned user extensions: 0
+[2018-11-17 22:23:31.744] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:32.014] [sharedprocess] [info] Scanned user extensions: 0
+[2018-11-17 22:23:32.019] [sharedprocess] [info] Scanned user extensions: 0
+[2018-11-17 22:23:32.039] [sharedprocess] [info] Scanned user extensions: 0
+[2018-11-17 22:23:32.042] [sharedprocess] [info] Scanned user extensions: 0
+[2018-11-17 22:23:32.117] [sharedprocess] [info] Scanned user extensions: 0
+[2018-11-17 22:23:32.520] [sharedprocess] [info] Scanned user extensions: 0
+[2018-11-17 22:23:32.546] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:32.551] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:32.555] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:32.642] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:32.703] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:33.076] [sharedprocess] [info] Scanned user extensions: 0
+[2018-11-17 22:23:33.077] [sharedprocess] [info] Scanned user extensions: 0
+[2018-11-17 22:23:33.077] [sharedprocess] [info] Installing the extension: codemix.angular-0.9.0
+[2018-11-17 22:23:33.079] [sharedprocess] [info] Scanned user extensions: 0
+[2018-11-17 22:23:33.136] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:33.411] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.codemix.angular-0.9.0: codemix.angular-0.9.0
+[2018-11-17 22:23:33.549] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\codemix.angular-0.9.0
+[2018-11-17 22:23:33.549] [sharedprocess] [info] Installation completed. codemix.angular-0.9.0
+[2018-11-17 22:23:33.552] [sharedprocess] [info] Successfully installed the extension: codemix.angular-0.9.0
+[2018-11-17 22:23:33.556] [sharedprocess] [info] Scanned user extensions: 1
+[2018-11-17 22:23:33.595] [sharedprocess] [info] Scanned user extensions: 1
+[2018-11-17 22:23:33.622] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:33.659] [sharedprocess] [info] Scanned user extensions: 1
+[2018-11-17 22:23:33.689] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:33.877] [sharedprocess] [info] Scanned user extensions: 1
+[2018-11-17 22:23:34.319] [sharedprocess] [info] Scanned user extensions: 1
+[2018-11-17 22:23:34.321] [sharedprocess] [info] Scanned user extensions: 1
+[2018-11-17 22:23:34.321] [sharedprocess] [info] Installing the extension: gamunu.vscode-yarn-1.6.0
+[2018-11-17 22:23:34.325] [sharedprocess] [info] Scanned user extensions: 1
+[2018-11-17 22:23:34.356] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:34.753] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.gamunu.vscode-yarn-1.6.0: gamunu.vscode-yarn-1.6.0
+[2018-11-17 22:23:34.756] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\gamunu.vscode-yarn-1.6.0
+[2018-11-17 22:23:34.756] [sharedprocess] [info] Installation completed. gamunu.vscode-yarn-1.6.0
+[2018-11-17 22:23:34.757] [sharedprocess] [info] Successfully installed the extension: gamunu.vscode-yarn-1.6.0
+[2018-11-17 22:23:34.762] [sharedprocess] [info] Scanned user extensions: 2
+[2018-11-17 22:23:34.769] [sharedprocess] [info] Scanned user extensions: 2
+[2018-11-17 22:23:34.800] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:34.871] [sharedprocess] [info] Scanned user extensions: 2
+[2018-11-17 22:23:34.899] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:35.405] [sharedprocess] [info] Scanned user extensions: 2
+[2018-11-17 22:23:35.407] [sharedprocess] [info] Scanned user extensions: 2
+[2018-11-17 22:23:35.408] [sharedprocess] [info] Installing the extension: ms-vscode.node-debug2-1.24.2
+[2018-11-17 22:23:35.412] [sharedprocess] [info] Scanned user extensions: 2
+[2018-11-17 22:23:35.456] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:37.515] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.ms-vscode.node-debug2-1.24.2: ms-vscode.node-debug2-1.24.2
+[2018-11-17 22:23:37.518] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\ms-vscode.node-debug2-1.24.2
+[2018-11-17 22:23:37.518] [sharedprocess] [info] Installation completed. ms-vscode.node-debug2-1.24.2
+[2018-11-17 22:23:37.520] [sharedprocess] [info] Successfully installed the extension: ms-vscode.node-debug2-1.24.2
+[2018-11-17 22:23:37.524] [sharedprocess] [info] Scanned user extensions: 3
+[2018-11-17 22:23:37.532] [sharedprocess] [info] Scanned user extensions: 3
+[2018-11-17 22:23:37.558] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:37.587] [sharedprocess] [info] Scanned user extensions: 3
+[2018-11-17 22:23:37.592] [sharedprocess] [info] Scanned user extensions: 3
+[2018-11-17 22:23:37.592] [sharedprocess] [info] Installing the extension: eg2.tslint-1.0.29
+[2018-11-17 22:23:37.600] [sharedprocess] [info] Scanned user extensions: 3
+[2018-11-17 22:23:37.626] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:37.629] [sharedprocess] [info] Scanned user extensions: 3
+[2018-11-17 22:23:37.657] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:44.063] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.eg2.tslint-1.0.29: eg2.tslint-1.0.29
+[2018-11-17 22:23:44.066] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\eg2.tslint-1.0.29
+[2018-11-17 22:23:44.066] [sharedprocess] [info] Installation completed. eg2.tslint-1.0.29
+[2018-11-17 22:23:44.068] [sharedprocess] [info] Successfully installed the extension: eg2.tslint-1.0.29
+[2018-11-17 22:23:44.073] [sharedprocess] [info] Scanned user extensions: 4
+[2018-11-17 22:23:44.083] [sharedprocess] [info] Scanned user extensions: 4
+[2018-11-17 22:23:44.107] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:44.153] [sharedprocess] [info] Scanned user extensions: 4
+[2018-11-17 22:23:44.157] [sharedprocess] [info] Scanned user extensions: 4
+[2018-11-17 22:23:44.157] [sharedprocess] [info] Installing the extension: hookyqr.beautify-1.3.0
+[2018-11-17 22:23:44.165] [sharedprocess] [info] Scanned user extensions: 4
+[2018-11-17 22:23:44.185] [sharedprocess] [info] Scanned user extensions: 4
+[2018-11-17 22:23:44.188] [sharedprocess] [info] Scanned user extensions: 4
+[2018-11-17 22:23:44.226] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:44.259] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:44.262] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:44.797] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.hookyqr.beautify-1.3.0: hookyqr.beautify-1.3.0
+[2018-11-17 22:23:44.800] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\hookyqr.beautify-1.3.0
+[2018-11-17 22:23:44.800] [sharedprocess] [info] Installation completed. hookyqr.beautify-1.3.0
+[2018-11-17 22:23:44.802] [sharedprocess] [info] Successfully installed the extension: hookyqr.beautify-1.3.0
+[2018-11-17 22:23:44.807] [sharedprocess] [info] Scanned user extensions: 5
+[2018-11-17 22:23:44.815] [sharedprocess] [info] Scanned user extensions: 5
+[2018-11-17 22:23:44.837] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:44.880] [sharedprocess] [info] Scanned user extensions: 5
+[2018-11-17 22:23:44.883] [sharedprocess] [info] Scanned user extensions: 5
+[2018-11-17 22:23:44.883] [sharedprocess] [info] Installing the extension: eg2.vscode-npm-script-0.3.3
+[2018-11-17 22:23:44.888] [sharedprocess] [info] Scanned user extensions: 5
+[2018-11-17 22:23:44.915] [sharedprocess] [info] Scanned user extensions: 5
+[2018-11-17 22:23:44.924] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:44.942] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:45.032] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.eg2.vscode-npm-script-0.3.3: eg2.vscode-npm-script-0.3.3
+[2018-11-17 22:23:45.034] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\eg2.vscode-npm-script-0.3.3
+[2018-11-17 22:23:45.034] [sharedprocess] [info] Installation completed. eg2.vscode-npm-script-0.3.3
+[2018-11-17 22:23:45.036] [sharedprocess] [info] Successfully installed the extension: eg2.vscode-npm-script-0.3.3
+[2018-11-17 22:23:45.041] [sharedprocess] [info] Scanned user extensions: 6
+[2018-11-17 22:23:45.050] [sharedprocess] [info] Scanned user extensions: 6
+[2018-11-17 22:23:45.076] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:45.123] [sharedprocess] [info] Scanned user extensions: 6
+[2018-11-17 22:23:45.126] [sharedprocess] [info] Scanned user extensions: 6
+[2018-11-17 22:23:45.126] [sharedprocess] [info] Installing the extension: formulahendry.auto-close-tag-0.5.6
+[2018-11-17 22:23:45.131] [sharedprocess] [info] Scanned user extensions: 6
+[2018-11-17 22:23:45.151] [sharedprocess] [info] Scanned user extensions: 6
+[2018-11-17 22:23:45.177] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:45.189] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:45.223] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.formulahendry.auto-close-tag-0.5.6: formulahendry.auto-close-tag-0.5.6
+[2018-11-17 22:23:45.225] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\formulahendry.auto-close-tag-0.5.6
+[2018-11-17 22:23:45.225] [sharedprocess] [info] Installation completed. formulahendry.auto-close-tag-0.5.6
+[2018-11-17 22:23:45.227] [sharedprocess] [info] Successfully installed the extension: formulahendry.auto-close-tag-0.5.6
+[2018-11-17 22:23:45.234] [sharedprocess] [info] Scanned user extensions: 7
+[2018-11-17 22:23:45.274] [sharedprocess] [info] Scanned user extensions: 7
+[2018-11-17 22:23:45.300] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:45.338] [sharedprocess] [info] Scanned user extensions: 7
+[2018-11-17 22:23:45.361] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:23:51.607] [sharedprocess] [info] Scanned user extensions: 7
+[2018-11-17 22:23:51.611] [sharedprocess] [info] Scanned user extensions: 7
+[2018-11-17 22:23:51.611] [sharedprocess] [info] Installing the extension: zignd.html-css-class-completion-1.17.1
+[2018-11-17 22:23:51.619] [sharedprocess] [info] Scanned user extensions: 7
+[2018-11-17 22:23:51.638] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:01.250] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.zignd.html-css-class-completion-1.17.1: zignd.html-css-class-completion-1.17.1
+[2018-11-17 22:24:01.254] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\zignd.html-css-class-completion-1.17.1
+[2018-11-17 22:24:01.254] [sharedprocess] [info] Installation completed. zignd.html-css-class-completion-1.17.1
+[2018-11-17 22:24:01.256] [sharedprocess] [info] Successfully installed the extension: zignd.html-css-class-completion-1.17.1
+[2018-11-17 22:24:01.264] [sharedprocess] [info] Scanned user extensions: 8
+[2018-11-17 22:24:01.277] [sharedprocess] [info] Scanned user extensions: 8
+[2018-11-17 22:24:01.302] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:01.360] [sharedprocess] [info] Scanned user extensions: 8
+[2018-11-17 22:24:01.375] [sharedprocess] [info] Scanned user extensions: 8
+[2018-11-17 22:24:01.375] [sharedprocess] [info] Installing the extension: codemix.web-0.9.1
+[2018-11-17 22:24:01.377] [sharedprocess] [info] Scanned user extensions: 8
+[2018-11-17 22:24:01.396] [sharedprocess] [info] Scanned user extensions: 8
+[2018-11-17 22:24:01.445] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:01.450] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:01.457] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.codemix.web-0.9.1: codemix.web-0.9.1
+[2018-11-17 22:24:01.459] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\codemix.web-0.9.1
+[2018-11-17 22:24:01.459] [sharedprocess] [info] Installation completed. codemix.web-0.9.1
+[2018-11-17 22:24:01.461] [sharedprocess] [info] Successfully installed the extension: codemix.web-0.9.1
+[2018-11-17 22:24:01.468] [sharedprocess] [info] Scanned user extensions: 9
+[2018-11-17 22:24:01.477] [sharedprocess] [info] Scanned user extensions: 9
+[2018-11-17 22:24:01.500] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:01.552] [sharedprocess] [info] Scanned user extensions: 9
+[2018-11-17 22:24:01.557] [sharedprocess] [info] Scanned user extensions: 9
+[2018-11-17 22:24:01.557] [sharedprocess] [info] Installing the extension: christian-kohler.path-intellisense-1.4.2
+[2018-11-17 22:24:01.563] [sharedprocess] [info] Scanned user extensions: 9
+[2018-11-17 22:24:01.577] [sharedprocess] [info] Scanned user extensions: 9
+[2018-11-17 22:24:01.618] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:01.623] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:02.108] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.christian-kohler.path-intellisense-1.4.2: christian-kohler.path-intellisense-1.4.2
+[2018-11-17 22:24:02.111] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\christian-kohler.path-intellisense-1.4.2
+[2018-11-17 22:24:02.111] [sharedprocess] [info] Installation completed. christian-kohler.path-intellisense-1.4.2
+[2018-11-17 22:24:02.113] [sharedprocess] [info] Successfully installed the extension: christian-kohler.path-intellisense-1.4.2
+[2018-11-17 22:24:02.123] [sharedprocess] [info] Scanned user extensions: 10
+[2018-11-17 22:24:02.138] [sharedprocess] [info] Scanned user extensions: 10
+[2018-11-17 22:24:02.178] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:02.233] [sharedprocess] [info] Scanned user extensions: 10
+[2018-11-17 22:24:02.263] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:02.712] [sharedprocess] [info] Scanned user extensions: 10
+[2018-11-17 22:24:02.716] [sharedprocess] [info] Scanned user extensions: 10
+[2018-11-17 22:24:02.716] [sharedprocess] [info] Installing the extension: codemix.node-0.9.0
+[2018-11-17 22:24:02.725] [sharedprocess] [info] Scanned user extensions: 10
+[2018-11-17 22:24:02.749] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:02.756] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.codemix.node-0.9.0: codemix.node-0.9.0
+[2018-11-17 22:24:02.758] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\codemix.node-0.9.0
+[2018-11-17 22:24:02.758] [sharedprocess] [info] Installation completed. codemix.node-0.9.0
+[2018-11-17 22:24:02.759] [sharedprocess] [info] Successfully installed the extension: codemix.node-0.9.0
+[2018-11-17 22:24:02.766] [sharedprocess] [info] Scanned user extensions: 11
+[2018-11-17 22:24:02.781] [sharedprocess] [info] Scanned user extensions: 11
+[2018-11-17 22:24:02.798] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:02.911] [sharedprocess] [info] Scanned user extensions: 11
+[2018-11-17 22:24:02.926] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:02.935] [sharedprocess] [info] Scanned user extensions: 11
+[2018-11-17 22:24:02.940] [sharedprocess] [info] Scanned user extensions: 11
+[2018-11-17 22:24:02.940] [sharedprocess] [info] Installing the extension: formulahendry.code-runner-0.9.3
+[2018-11-17 22:24:02.951] [sharedprocess] [info] Scanned user extensions: 11
+[2018-11-17 22:24:02.972] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:04.295] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.formulahendry.code-runner-0.9.3: formulahendry.code-runner-0.9.3
+[2018-11-17 22:24:04.297] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\formulahendry.code-runner-0.9.3
+[2018-11-17 22:24:04.297] [sharedprocess] [info] Installation completed. formulahendry.code-runner-0.9.3
+[2018-11-17 22:24:04.299] [sharedprocess] [info] Successfully installed the extension: formulahendry.code-runner-0.9.3
+[2018-11-17 22:24:04.309] [sharedprocess] [info] Scanned user extensions: 12
+[2018-11-17 22:24:04.327] [sharedprocess] [info] Scanned user extensions: 12
+[2018-11-17 22:24:04.361] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:04.418] [sharedprocess] [info] Scanned user extensions: 12
+[2018-11-17 22:24:04.436] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:04.519] [sharedprocess] [info] Scanned user extensions: 12
+[2018-11-17 22:24:04.527] [sharedprocess] [info] Scanned user extensions: 12
+[2018-11-17 22:24:04.528] [sharedprocess] [info] Installing the extension: msjsdiag.debugger-for-chrome-4.4.3
+[2018-11-17 22:24:04.538] [sharedprocess] [info] Scanned user extensions: 12
+[2018-11-17 22:24:04.564] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:05.223] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.msjsdiag.debugger-for-chrome-4.4.3: msjsdiag.debugger-for-chrome-4.4.3
+[2018-11-17 22:24:05.225] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\msjsdiag.debugger-for-chrome-4.4.3
+[2018-11-17 22:24:05.225] [sharedprocess] [info] Installation completed. msjsdiag.debugger-for-chrome-4.4.3
+[2018-11-17 22:24:05.228] [sharedprocess] [info] Successfully installed the extension: msjsdiag.debugger-for-chrome-4.4.3
+[2018-11-17 22:24:05.236] [sharedprocess] [info] Scanned user extensions: 13
+[2018-11-17 22:24:05.252] [sharedprocess] [info] Scanned user extensions: 13
+[2018-11-17 22:24:05.269] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:05.337] [sharedprocess] [info] Scanned user extensions: 13
+[2018-11-17 22:24:05.348] [sharedprocess] [info] Scanned user extensions: 13
+[2018-11-17 22:24:05.354] [sharedprocess] [info] Scanned user extensions: 13
+[2018-11-17 22:24:05.354] [sharedprocess] [info] Installing the extension: angular.ng-template-0.1.9
+[2018-11-17 22:24:05.371] [sharedprocess] [info] Scanned user extensions: 13
+[2018-11-17 22:24:05.386] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:05.398] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:06.540] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.angular.ng-template-0.1.9: angular.ng-template-0.1.9
+[2018-11-17 22:24:06.542] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\angular.ng-template-0.1.9
+[2018-11-17 22:24:06.542] [sharedprocess] [info] Installation completed. angular.ng-template-0.1.9
+[2018-11-17 22:24:06.544] [sharedprocess] [info] Successfully installed the extension: angular.ng-template-0.1.9
+[2018-11-17 22:24:06.554] [sharedprocess] [info] Scanned user extensions: 14
+[2018-11-17 22:24:06.575] [sharedprocess] [info] Scanned user extensions: 14
+[2018-11-17 22:24:06.596] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:06.730] [sharedprocess] [info] Scanned user extensions: 14
+[2018-11-17 22:24:06.746] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:06.776] [sharedprocess] [info] Scanned user extensions: 14
+[2018-11-17 22:24:06.784] [sharedprocess] [info] Scanned user extensions: 14
+[2018-11-17 22:24:06.784] [sharedprocess] [info] Installing the extension: dbaeumer.vscode-eslint-1.4.10
+[2018-11-17 22:24:06.798] [sharedprocess] [info] Scanned user extensions: 14
+[2018-11-17 22:24:06.820] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:07.551] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.dbaeumer.vscode-eslint-1.4.10: dbaeumer.vscode-eslint-1.4.10
+[2018-11-17 22:24:07.555] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\dbaeumer.vscode-eslint-1.4.10
+[2018-11-17 22:24:07.555] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint-1.4.10
+[2018-11-17 22:24:07.559] [sharedprocess] [info] Successfully installed the extension: dbaeumer.vscode-eslint-1.4.10
+[2018-11-17 22:24:07.585] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-17 22:24:07.616] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-17 22:24:07.645] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:07.705] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-17 22:24:07.706] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-17 22:24:07.739] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:07.743] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:07.755] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-17 22:24:07.762] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-17 22:24:07.762] [sharedprocess] [info] Installing the extension: johnpapa.angular2-6.1.1
+[2018-11-17 22:24:07.774] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-17 22:24:07.792] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:07.941] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.johnpapa.angular2-6.1.1: johnpapa.angular2-6.1.1
+[2018-11-17 22:24:07.943] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\johnpapa.angular2-6.1.1
+[2018-11-17 22:24:07.943] [sharedprocess] [info] Installation completed. johnpapa.angular2-6.1.1
+[2018-11-17 22:24:07.945] [sharedprocess] [info] Successfully installed the extension: johnpapa.angular2-6.1.1
+[2018-11-17 22:24:07.955] [sharedprocess] [info] Scanned user extensions: 16
+[2018-11-17 22:24:07.974] [sharedprocess] [info] Scanned user extensions: 16
+[2018-11-17 22:24:07.991] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:08.061] [sharedprocess] [info] Scanned user extensions: 16
+[2018-11-17 22:24:08.079] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:11.679] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-11-17 22:24:15.305] [sharedprocess] [info] Scanned user extensions: 16
+[2018-11-17 22:24:15.312] [sharedprocess] [info] Scanned user extensions: 16
+[2018-11-17 22:24:15.312] [sharedprocess] [info] Installing the extension: rbbit.typescript-hero-2.3.2
+[2018-11-17 22:24:15.323] [sharedprocess] [info] Scanned user extensions: 16
+[2018-11-17 22:24:15.345] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:20.635] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.rbbit.typescript-hero-2.3.2: rbbit.typescript-hero-2.3.2
+[2018-11-17 22:24:20.638] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\rbbit.typescript-hero-2.3.2
+[2018-11-17 22:24:20.638] [sharedprocess] [info] Installation completed. rbbit.typescript-hero-2.3.2
+[2018-11-17 22:24:20.640] [sharedprocess] [info] Successfully installed the extension: rbbit.typescript-hero-2.3.2
+[2018-11-17 22:24:20.651] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-17 22:24:20.672] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-17 22:24:20.690] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:20.778] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-17 22:24:20.797] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:20.819] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-17 22:24:20.828] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-17 22:24:20.828] [sharedprocess] [info] Installing the extension: christian-kohler.npm-intellisense-1.3.0
+[2018-11-17 22:24:20.843] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-17 22:24:20.865] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:21.719] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.christian-kohler.npm-intellisense-1.3.0: christian-kohler.npm-intellisense-1.3.0
+[2018-11-17 22:24:21.723] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\christian-kohler.npm-intellisense-1.3.0
+[2018-11-17 22:24:21.723] [sharedprocess] [info] Installation completed. christian-kohler.npm-intellisense-1.3.0
+[2018-11-17 22:24:21.726] [sharedprocess] [info] Successfully installed the extension: christian-kohler.npm-intellisense-1.3.0
+[2018-11-17 22:24:21.748] [sharedprocess] [info] Scanned user extensions: 18
+[2018-11-17 22:24:21.773] [sharedprocess] [info] Scanned user extensions: 18
+[2018-11-17 22:24:21.791] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:21.845] [sharedprocess] [info] Scanned user extensions: 18
+[2018-11-17 22:24:21.870] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:21.877] [sharedprocess] [info] Scanned user extensions: 18
+[2018-11-17 22:24:21.885] [sharedprocess] [info] Scanned user extensions: 18
+[2018-11-17 22:24:21.885] [sharedprocess] [info] Installing the extension: xabikos.javascriptsnippets-1.6.0
+[2018-11-17 22:24:21.896] [sharedprocess] [info] Scanned user extensions: 18
+[2018-11-17 22:24:21.913] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:21.944] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.xabikos.javascriptsnippets-1.6.0: xabikos.javascriptsnippets-1.6.0
+[2018-11-17 22:24:21.946] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\xabikos.javascriptsnippets-1.6.0
+[2018-11-17 22:24:21.946] [sharedprocess] [info] Installation completed. xabikos.javascriptsnippets-1.6.0
+[2018-11-17 22:24:21.947] [sharedprocess] [info] Successfully installed the extension: xabikos.javascriptsnippets-1.6.0
+[2018-11-17 22:24:21.958] [sharedprocess] [info] Scanned user extensions: 19
+[2018-11-17 22:24:21.996] [sharedprocess] [info] Scanned user extensions: 19
+[2018-11-17 22:24:22.025] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:22.073] [sharedprocess] [info] Scanned user extensions: 19
+[2018-11-17 22:24:22.100] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:22.108] [sharedprocess] [info] Scanned user extensions: 19
+[2018-11-17 22:24:22.117] [sharedprocess] [info] Scanned user extensions: 19
+[2018-11-17 22:24:22.117] [sharedprocess] [info] Installing the extension: codemix.typescript-0.9.0
+[2018-11-17 22:24:22.136] [sharedprocess] [info] Scanned user extensions: 19
+[2018-11-17 22:24:22.152] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:22.209] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.codemix.typescript-0.9.0: codemix.typescript-0.9.0
+[2018-11-17 22:24:22.212] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\codemix.typescript-0.9.0
+[2018-11-17 22:24:22.212] [sharedprocess] [info] Installation completed. codemix.typescript-0.9.0
+[2018-11-17 22:24:22.213] [sharedprocess] [info] Successfully installed the extension: codemix.typescript-0.9.0
+[2018-11-17 22:24:22.243] [sharedprocess] [info] Scanned user extensions: 20
+[2018-11-17 22:24:22.268] [sharedprocess] [info] Scanned user extensions: 20
+[2018-11-17 22:24:22.288] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:22.348] [sharedprocess] [info] Scanned user extensions: 20
+[2018-11-17 22:24:22.370] [sharedprocess] [info] Scanned user extensions: 20
+[2018-11-17 22:24:22.370] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:22.383] [sharedprocess] [info] Scanned user extensions: 20
+[2018-11-17 22:24:22.383] [sharedprocess] [info] Installing the extension: mkaufman.htmlhint-0.5.0
+[2018-11-17 22:24:22.398] [sharedprocess] [info] Scanned user extensions: 20
+[2018-11-17 22:24:22.411] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:24.565] [sharedprocess] [info] Extracted extension to C:\Users\matti\.codemix\extensions\.mkaufman.htmlhint-0.5.0: mkaufman.htmlhint-0.5.0
+[2018-11-17 22:24:24.568] [sharedprocess] [info] Renamed to C:\Users\matti\.codemix\extensions\mkaufman.htmlhint-0.5.0
+[2018-11-17 22:24:24.568] [sharedprocess] [info] Installation completed. mkaufman.htmlhint-0.5.0
+[2018-11-17 22:24:24.569] [sharedprocess] [info] Successfully installed the extension: mkaufman.htmlhint-0.5.0
+[2018-11-17 22:24:24.581] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-17 22:24:24.607] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-17 22:24:24.626] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:24.697] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-17 22:24:24.716] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:26.028] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-17 22:24:26.031] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-17 22:24:26.044] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:26.970] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-17 22:24:26.987] [sharedprocess] [info] Scanned system extensions: 72
+[2018-11-17 22:24:29.182] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-17 22:29:29.230] [sharedprocess] [info] Scanned user extensions: 21
